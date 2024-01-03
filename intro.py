@@ -146,4 +146,5 @@ def acquisizione():
                 exit()
             else:
                 pass
+sasd i whant t o hacking insta
 
